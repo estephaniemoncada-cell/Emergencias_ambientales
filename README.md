@@ -20,10 +20,11 @@ El objetivo es cargar, explorar y construir un analisis estadisticos con la base
 
 🔗 **Notebook del proyecto:**
 
-[Ver análisis completo en Jupyter Notebook](https://github.com/estephaniemoncada-cell/Analisis_ConnectaTel/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+[Ver análisis completo en Jupyter Notebook](https://github.com/estephaniemoncada-cell/Emergencias_ambientales/blob/main/Emergencias_ambientales%20(1).ipynb)
 
 📊 **Dashboard del proyecto:**
-
+[Ver análisis en Dashboard](https://github.com/estephaniemoncada-cell/Emergencias_ambientales/blob/main/Emergencias%20ambientales.pdf
+)
 
 # Insights 
 * <p align="justify"> ⚠️ Problemas detectados en los datos:
