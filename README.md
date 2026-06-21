@@ -15,6 +15,8 @@ El objetivo es cargar, explorar y construir un analisis estadisticos con la base
 * <p align="justify">Identificación de problemas de calidad de datos: se reviso que no existan valores ausentes, nulos o duplicados. Se realizo una limpieza a la columna estado para eliminar espacios y estandarizarlos con title</p>
 * <p align="justify"> Resumen estadistico: Realice la agrupacion y suma de las emergencias ambientales totales de todos los estados. Obtuve cuantas emergencias se generaron por tipo de emergencia y por estado. Se identifico cual es el estado con mayor y menor emergencias ambientales y tambien que estados tienen mas derrames, fugas, incendios, explosiones y otros  </p>
  * <p align="justify"> Con numpy se obtuvo el indice de diversidad de emergencias por estado (verificar si el estado tiene muchos tipos de problemas o solo uno)</p>
+ * <p align="justify"> Se realizo un informe ejecutivo en donde se describieron los hallazgos tanto de limpieza como los resultados que se obtuvieron en el analisis de los datos y se colocaron recomendaciones.</p>
+ * <p align="justify"> Con el uso de PowerBI, se genero un dashboard interactivo para identificar los estados mas relevantes en cunato a emrgencias ambientales</p>
  
 # Entregable:
 
